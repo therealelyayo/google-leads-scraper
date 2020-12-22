@@ -18,11 +18,12 @@ To start you would need to activate the virtual environment
     .\env\Scripts\activate
 
  ##
-   
+   also install chrome
+   run dis in a server with vscode for easy get mails
    
 1. `python3 --version (supports 3.7 and above)`
 2. `pip3 install -r requirements.txt`
-3. `python3 main.py "my query" --start=1 --stop=5 --file="a_file_name_to_save_data"`
+3. `python3 main.py "chemical suppliers" --start=1 --stop=500 --file="chemical"
  
 
 
